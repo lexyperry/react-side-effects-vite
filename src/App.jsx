@@ -37,7 +37,7 @@ function App() {
       setLoading(false);
     })
   }
-
+ 
   return (
     <div className="app">
       <h1>Programming Jokes</h1>
